@@ -3,4 +3,5 @@
 # <div align="center">Nabbit</div>
 
 <div>Ideas:</div>
-<div>&ensp;&ensp;-whois bot</div>
+<div>&ensp;&ensp;-Who.is bot</div>
+<div>&ensp;&ensp;&ensp;&ensp;-Find all the stuff that is not redacted</div>
