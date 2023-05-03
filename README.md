@@ -84,7 +84,7 @@ $ nabbit <file> [options]
 
 ###### Command
 ```
-$ nabbit testcase.txt --browser-type=chrome -o bookmarks.html
+$ nabbit chrome_example.txt --browser-type=chrome -o bookmarks.html
 ```
 
 ###### chrome_example.txt (http/https:// or trailing forward slash not required)
@@ -112,7 +112,7 @@ CERN----http://info.cern.ch/
 
 ###### Command
 ```
-$ nabbit testcase.txt --browser-type=firefox -o bookmarks.html
+$ nabbit firefox_example.txt --browser-type=firefox -o bookmarks.html
 ```
 
 ###### firefox_example.txt ('++++' represents a separator line)
