@@ -220,6 +220,6 @@ Notes on Text Bookmark File Format:
 </br>
 
 ### Changelog
-| Version  | Notes |
+| Version | Notes |
 | :---: | :---: |
 | 1.0 | Initial-Relase |
