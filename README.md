@@ -1,6 +1,6 @@
-![Version 1.0](https://img.shields.io/badge/version-v1.0-orange.svg)
+![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![Go 1.20](https://img.shields.io/badge/Go-1.20-00acd7.svg)
-![Last Updated](https://img.shields.io/github/last-commit/kyletimmermans/nabbit?color=success)
+![Latest Commit](https://img.shields.io/github/last-commit/kyletimmermans/nabbit?color=success&label=Latest%20Commit)
 [![kyletimmermans Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/kyletimmermans)
 
 # <div align="center">Nabbit</div>
