@@ -223,3 +223,8 @@ Notes on Text Bookmark File Format:
 | Version | Notes |
 | :---: | :---: |
 | 1.0 | Initial-Relase |
+
+<div>&#8203;</div>
+
+## Reporting Vulnerabilities
+To report a vulnerability, see [SECURITY.md](SECURITY.md)
